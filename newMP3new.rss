@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xml:lang="en" version="2.0">
   <channel>
     <title>KD-DIP</title>
     <link>https://docs.google.com/document/d/1V6WvpDI8_R3rxJKAxVMioidt1JQZtSoFNm7f9Cd5c0c/edit</link>
@@ -350,7 +350,7 @@
       <pubDate>Sun, 20 Aug 2023 00:00:33 +0000</pubDate>
     </item>
     <item>
-      <title>043 – The HY Medical Student (A Guide For MS1’s)</title>
+      <title>043 – The HY Medical Student (A Guide For MS1&apos;s)</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1gWeuViXBVB_suoR7isbbOG_Ws3exTqN1</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1gWeuViXBVB_suoR7isbbOG_Ws3exTqN1"
@@ -858,14 +858,14 @@
       <pubDate>Sun, 20 Aug 2023 00:01:25 +0000</pubDate>
     </item>
     <item>
-      <title>097 – The “Most Important” Podcast (USMLEs)</title>
+      <title>097 – The &quot;Most Important&quot; Podcast (USMLEs)</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1gu0zY1--p54qwyRUxj1WOHSPW0pxLsj_</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1gu0zY1--p54qwyRUxj1WOHSPW0pxLsj_"
         length="14826627" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1BcHpjZ9jxOCA2pFxHkPlqPqKAO-2mV8lVEohufKfed0/edit">Notes - Ep. 097: The “Most Important” Podcast</a>
+          <a href="https://docs.google.com/document/d/1BcHpjZ9jxOCA2pFxHkPlqPqKAO-2mV8lVEohufKfed0/edit">Notes - Ep. 097: The &quot;Most Important&quot; Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:01:26 +0000</pubDate>
@@ -889,14 +889,14 @@
       <pubDate>Sun, 20 Aug 2023 00:01:28 +0000</pubDate>
     </item>
     <item>
-      <title>100 – The “Clutch” Micro Podcast</title>
+      <title>100 – The &quot;Clutch&quot; Micro Podcast</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1guMSBJe2cn4qOu9_ARxGIZlvy0lYzYkc</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1guMSBJe2cn4qOu9_ARxGIZlvy0lYzYkc"
         length="56251461" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/11Qm016RQZRu6ieTvd3oI4ichP2-qpwpWs2gtZZ-crOc/edit">Notes - Ep. 100: “Clutch” Micro Podcast</a>
+          <a href="https://docs.google.com/document/d/11Qm016RQZRu6ieTvd3oI4ichP2-qpwpWs2gtZZ-crOc/edit">Notes - Ep. 100: &quot;Clutch&quot; Micro Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:01:29 +0000</pubDate>
@@ -911,14 +911,14 @@
       <pubDate>Sun, 20 Aug 2023 00:01:30 +0000</pubDate>
     </item>
     <item>
-      <title>102 – The “Clutch” Cancer Podcast</title>
+      <title>102 – The &quot;Clutch&quot; Cancer Podcast</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1gwLGMtA3h9K6rtpqFh_LZafvVctSUk35</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1gwLGMtA3h9K6rtpqFh_LZafvVctSUk35"
         length="83106177" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/15eJX5HbcHrMrbQJ6f3PfWRNArTk4ykU07zMqGOVYkCs/edit">Notes - Ep. 102: “Clutch” Cancer Podcast</a>
+          <a href="https://docs.google.com/document/d/15eJX5HbcHrMrbQJ6f3PfWRNArTk4ykU07zMqGOVYkCs/edit">Notes - Ep. 102: &quot;Clutch&quot; Cancer Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:01:31 +0000</pubDate>
@@ -1000,27 +1000,27 @@
       <pubDate>Sun, 20 Aug 2023 00:01:39 +0000</pubDate>
     </item>
     <item>
-      <title>111 – The “Clutch” Pharmacology Podcast Round 1</title>
+      <title>111 – The &quot;Clutch&quot; Pharmacology Podcast Round 1</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1h-uP482ktFGebjOI9cpN3Qz58JDcJyi9</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1h-uP482ktFGebjOI9cpN3Qz58JDcJyi9"
         length="61316418" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1GzieKD0n5EZuFdDUfI5bS7Gsx4KIxHe7uUhIV6Ejhyo/edit">Notes - Ep. 111: “Clutch” Pharmacology Podcast Round 1</a>
+          <a href="https://docs.google.com/document/d/1GzieKD0n5EZuFdDUfI5bS7Gsx4KIxHe7uUhIV6Ejhyo/edit">Notes - Ep. 111: &quot;Clutch&quot; Pharmacology Podcast Round 1</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:01:40 +0000</pubDate>
     </item>
     <item>
-      <title>112 – The “Clutch” Pharmacology Podcast Round 2</title>
+      <title>112 – The &quot;Clutch&quot; Pharmacology Podcast Round 2</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1h1AjF7JQ75oQFYE90V71jpFKxR0f5mpw</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1h1AjF7JQ75oQFYE90V71jpFKxR0f5mpw"
         length="33898464" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/10NDCL9jkWukTs3c9gWXOSDiRL8Tvy1q14tckV-nXVi4/edit">Notes - Ep. 112: “Clutch” Pharmacology Podcast Round 2</a>
+          <a href="https://docs.google.com/document/d/10NDCL9jkWukTs3c9gWXOSDiRL8Tvy1q14tckV-nXVi4/edit">Notes - Ep. 112: &quot;Clutch&quot; Pharmacology Podcast Round 2</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:01:41 +0000</pubDate>
@@ -1284,14 +1284,14 @@
       <pubDate>Sun, 20 Aug 2023 00:02:03 +0000</pubDate>
     </item>
     <item>
-      <title>135 – The “Clutch” Electrolyte Podcast</title>
+      <title>135 – The &quot;Clutch&quot; Electrolyte Podcast</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1hAuAihWlq8_5xMfq68houU4Vzpc6XPNk</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1hAuAihWlq8_5xMfq68houU4Vzpc6XPNk"
         length="92785734" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1WieRT20FjBoy0fp3Eb4Ifr_F9nVnx1r-w7lOP3hoPjY/edit">Notes - Ep. 135: “Clutch” Electrolytes</a>
+          <a href="https://docs.google.com/document/d/1WieRT20FjBoy0fp3Eb4Ifr_F9nVnx1r-w7lOP3hoPjY/edit">Notes - Ep. 135: &quot;Clutch&quot; Electrolytes</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:02:04 +0000</pubDate>
@@ -1313,7 +1313,7 @@
         length="58230531" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1bipko10FYSj4dfmXaFJ01og6aX1mUyScgCzvv5G6-Hw/edit">Notes - Ep. 137: “Next Best Step In Management” Series 1</a>
+          <a href="https://docs.google.com/document/d/1bipko10FYSj4dfmXaFJ01og6aX1mUyScgCzvv5G6-Hw/edit">Notes - Ep. 137: &quot;Next Best Step In Management&quot; Series 1</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:02:06 +0000</pubDate>
@@ -1327,7 +1327,7 @@
         length="108087882" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/19lE2vD4Y4EAyWCbdQZXxCJ1pTkwjd-ebYTA0oAnq4GE/edit">Notes - Ep. 138: “Clutch” Genetic Diseases Part 1</a>
+          <a href="https://docs.google.com/document/d/19lE2vD4Y4EAyWCbdQZXxCJ1pTkwjd-ebYTA0oAnq4GE/edit">Notes - Ep. 138: &quot;Clutch&quot; Genetic Diseases Part 1</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:02:07 +0000</pubDate>
@@ -1417,7 +1417,7 @@
       <pubDate>Sun, 20 Aug 2023 00:02:15 +0000</pubDate>
     </item>
     <item>
-      <title>147 – The Why’s of Anatomy For The USMLE Step 1 (Upper Limbs 1, Brachial Plexus)</title>
+      <title>147 – The Why&apos;s of Anatomy For The USMLE Step 1 (Upper Limbs 1, Brachial Plexus)</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1hEOUHKh-Pfk0ydOH98EyS6XztV1KLFOo</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1hEOUHKh-Pfk0ydOH98EyS6XztV1KLFOo"
@@ -1426,7 +1426,7 @@
       <pubDate>Sun, 20 Aug 2023 00:02:16 +0000</pubDate>
     </item>
     <item>
-      <title>148 – The Why’s of Anatomy For The USMLE Step 1 (Upper Limbs 2, Brachial Plexus)</title>
+      <title>148 – The Why&apos;s of Anatomy For The USMLE Step 1 (Upper Limbs 2, Brachial Plexus)</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1hFyT2Qp-DGnKRuZ1XC7xArVqZwO_-N5W</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1hFyT2Qp-DGnKRuZ1XC7xArVqZwO_-N5W"
@@ -1453,7 +1453,7 @@
       <pubDate>Sun, 20 Aug 2023 00:02:19 +0000</pubDate>
     </item>
     <item>
-      <title>151 – The Why’s of Anatomy For The USMLE Step 1 (Upper Limbs 3, Lower Limbs 1)</title>
+      <title>151 – The Why&apos;s of Anatomy For The USMLE Step 1 (Upper Limbs 3, Lower Limbs 1)</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1hGLCA1iBeXSsOYK_h-qcf2uw9uyLHZHu</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1hGLCA1iBeXSsOYK_h-qcf2uw9uyLHZHu"
@@ -1566,7 +1566,7 @@
         length="23275329" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1r9vdyqw4wcxVgoI9QrY1pTLdg_oddlWg6JVFudnetHo/edit">Notes - Ep. 161: “Clutch” Antibody Podcast</a>
+          <a href="https://docs.google.com/document/d/1r9vdyqw4wcxVgoI9QrY1pTLdg_oddlWg6JVFudnetHo/edit">Notes - Ep. 161: &quot;Clutch&quot; Antibody Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:02:30 +0000</pubDate>
@@ -1601,7 +1601,7 @@
         length="58902213" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1VKsPMYYy9ujyciDETP51ulM0hZkvurKqXq1CKCvq1ms/edit">Notes - Ep. 164: “Clutch” Toxicology Podcast – DOA, OD, WL, Toxidromes </a>
+          <a href="https://docs.google.com/document/d/1VKsPMYYy9ujyciDETP51ulM0hZkvurKqXq1CKCvq1ms/edit">Notes - Ep. 164: &quot;Clutch&quot; Toxicology Podcast – DOA, OD, WL, Toxidromes </a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:02:33 +0000</pubDate>
@@ -1658,10 +1658,10 @@
         length="43988865" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/13n3b7X_mlS0j_Nn2RZeIJTqrqSuy-zwUfQNttZ0ngbA/edit">Notes - Ep. 169: “Clutch” Nephrotic/Nephritic Syndrome</a>
+          <a href="https://docs.google.com/document/d/13n3b7X_mlS0j_Nn2RZeIJTqrqSuy-zwUfQNttZ0ngbA/edit">Notes - Ep. 169: &quot;Clutch&quot; Nephrotic/Nephritic Syndrome</a>
         ]]>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/12cq4T_SQ76APAkwowoJnOyhvrUl7Hicizg8NOvD1D44/edit">Notes - Ep. 169: “Clutch” Nephrotic/Nephritic Syndrome (Version 2)</a>
+          <a href="https://docs.google.com/document/d/12cq4T_SQ76APAkwowoJnOyhvrUl7Hicizg8NOvD1D44/edit">Notes - Ep. 169: &quot;Clutch&quot; Nephrotic/Nephritic Syndrome (Version 2)</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:02:38 +0000</pubDate>
@@ -1702,7 +1702,7 @@
         length="35673153" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1BLiiCp5s8We2ItARvgzRt0iOmCWcRoRgY_VLKuh6--g/edit">Notes - Ep. 173: “Clutch” Immunodeficiency Diseases Podcast</a>
+          <a href="https://docs.google.com/document/d/1BLiiCp5s8We2ItARvgzRt0iOmCWcRoRgY_VLKuh6--g/edit">Notes - Ep. 173: &quot;Clutch&quot; Immunodeficiency Diseases Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:02:42 +0000</pubDate>
@@ -1984,7 +1984,7 @@
         length="34874241" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1_VQlRGBKDcnzdbWzOJUUf_dwdHAdL4suhtjc2tobf-Y/edit">Notes - Ep. 198: “Clutch” Hypertensive Integrations Podcast</a>
+          <a href="https://docs.google.com/document/d/1_VQlRGBKDcnzdbWzOJUUf_dwdHAdL4suhtjc2tobf-Y/edit">Notes - Ep. 198: &quot;Clutch&quot; Hypertensive Integrations Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:03:07 +0000</pubDate>
@@ -2035,7 +2035,7 @@
       <pubDate>Sun, 20 Aug 2023 00:03:11 +0000</pubDate>
     </item>
     <item>
-      <title>203 – Leukemia’s and Lymphoma’s for the USMLE Step 2CK and Step 3 Exams</title>
+      <title>203 – Leukemia&apos;s and Lymphoma&apos;s for the USMLE Step 2CK and Step 3 Exams</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1heCuDa-zI572BrnPBphJdOuf0Zb75UFc</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1heCuDa-zI572BrnPBphJdOuf0Zb75UFc"
@@ -2721,7 +2721,7 @@
         length="25240065" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1ebhyIrCX2mXPx6qjj8EXgA14sE-G_TDsbASHWbt2X9c/edit">Notes - Ep. 257: “Clutch” Bilirubin Podcast</a>
+          <a href="https://docs.google.com/document/d/1ebhyIrCX2mXPx6qjj8EXgA14sE-G_TDsbASHWbt2X9c/edit">Notes - Ep. 257: &quot;Clutch&quot; Bilirubin Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:04:06 +0000</pubDate>
@@ -2747,7 +2747,7 @@
         length="19858497" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1ARElXG7iVoYjc-oujvgIPBpHz81g9XNd3GJXxR-PL-U/edit">Notes - Ep. 259: “Clutch” Incontinence Podcast</a>
+          <a href="https://docs.google.com/document/d/1ARElXG7iVoYjc-oujvgIPBpHz81g9XNd3GJXxR-PL-U/edit">Notes - Ep. 259: &quot;Clutch&quot; Incontinence Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:04:08 +0000</pubDate>
@@ -2782,7 +2782,7 @@
         length="12986241" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1Shk6aM2vpUKqb67Adu6U-XkZ3ma69xPk6zzYSsYKhs8/edit">Notes - Ep. 262: “Clutch” TB</a>
+          <a href="https://docs.google.com/document/d/1Shk6aM2vpUKqb67Adu6U-XkZ3ma69xPk6zzYSsYKhs8/edit">Notes - Ep. 262: &quot;Clutch&quot; TB</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:04:11 +0000</pubDate>
@@ -2795,7 +2795,7 @@
         length="31210881" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1Mo6GAFTBCSO_iBM1xQq7eqQ44f7t3B8Fj5vHivK6930/edit">Notes - Ep. 263: “Clutch” CNS Infection</a>
+          <a href="https://docs.google.com/document/d/1Mo6GAFTBCSO_iBM1xQq7eqQ44f7t3B8Fj5vHivK6930/edit">Notes - Ep. 263: &quot;Clutch&quot; CNS Infection</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:04:12 +0000</pubDate>
@@ -2808,7 +2808,7 @@
         length="71017665" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1jBXiJ1fSQEgs5xWm9rLkekk9GtTDYuGyK9rgzSvrZnE/edit">Notes - Ep. 264: “Clutch” Comprehensive Heart Failure</a>
+          <a href="https://docs.google.com/document/d/1jBXiJ1fSQEgs5xWm9rLkekk9GtTDYuGyK9rgzSvrZnE/edit">Notes - Ep. 264: &quot;Clutch&quot; Comprehensive Heart Failure</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:04:13 +0000</pubDate>
@@ -3396,7 +3396,7 @@
         length="26541825" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/14c8wajUh6S49cPhmlPU4uun7K9Aup0CnRND22QvB2f0/edit">Notes - Ep. 309: “Clutch” Breast Cancer Podcast</a>
+          <a href="https://docs.google.com/document/d/14c8wajUh6S49cPhmlPU4uun7K9Aup0CnRND22QvB2f0/edit">Notes - Ep. 309: &quot;Clutch&quot; Breast Cancer Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:04:59 +0000</pubDate>
@@ -3422,7 +3422,7 @@
         length="54583233" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1Cghr1OtJ_edUqI8wjtXm6amxgde5riao0xShH_CQUkY/edit">Notes - Ep. 311: “Clutch” CSF Findings and Brain Imaging</a>
+          <a href="https://docs.google.com/document/d/1Cghr1OtJ_edUqI8wjtXm6amxgde5riao0xShH_CQUkY/edit">Notes - Ep. 311: &quot;Clutch&quot; CSF Findings and Brain Imaging</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:01 +0000</pubDate>
@@ -3475,7 +3475,7 @@
         length="20137281" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1uledLEjHZgNiXlQsyglUT-ck1SaN4fy7U5b32A63VY8/edit">Notes - Ep. 315: “Clutch” Circle of Willis Podcast</a>
+          <a href="https://docs.google.com/document/d/1uledLEjHZgNiXlQsyglUT-ck1SaN4fy7U5b32A63VY8/edit">Notes - Ep. 315: &quot;Clutch&quot; Circle of Willis Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:05 +0000</pubDate>
@@ -3553,7 +3553,7 @@
         length="45680001" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1KCp_7YIsxXmwknVs7Q4uUJAPPET0Xm0de-B0zl3f3Ak/edit">Notes - Ep. 321: “Clutch” Metabolic Acidosis</a>
+          <a href="https://docs.google.com/document/d/1KCp_7YIsxXmwknVs7Q4uUJAPPET0Xm0de-B0zl3f3Ak/edit">Notes - Ep. 321: &quot;Clutch&quot; Metabolic Acidosis</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:11 +0000</pubDate>
@@ -3672,7 +3672,7 @@
         length="20899905" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1A5coWzznpoNE9mkETMcnuXuWlna0G8IpwXfyWuCnduY/edit">Notes - Ep. 331: “Clutch” Lung Cancer</a>
+          <a href="https://docs.google.com/document/d/1A5coWzznpoNE9mkETMcnuXuWlna0G8IpwXfyWuCnduY/edit">Notes - Ep. 331: &quot;Clutch&quot; Lung Cancer</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:21 +0000</pubDate>
@@ -3685,7 +3685,7 @@
         length="28644801" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1PRKnF33nqGjQBcvvhZihJCq0IR_2U7xYK_1Q3jkX-Nw/edit">Notes - Ep. 332: “Clutch” Pleural Abnormalities/Effusions</a>
+          <a href="https://docs.google.com/document/d/1PRKnF33nqGjQBcvvhZihJCq0IR_2U7xYK_1Q3jkX-Nw/edit">Notes - Ep. 332: &quot;Clutch&quot; Pleural Abnormalities/Effusions</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:22 +0000</pubDate>
@@ -3698,7 +3698,7 @@
         length="15816705" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1txUE2JlOkflreFiVbRdWp01fNHCKScYr0AyW4veJ8-I/edit">Notes - Ep. 333: “Clutch” Pressors &amp; Inotrope</a>
+          <a href="https://docs.google.com/document/d/1txUE2JlOkflreFiVbRdWp01fNHCKScYr0AyW4veJ8-I/edit">Notes - Ep. 333: &quot;Clutch&quot; Pressors &amp; Inotrope</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:23 +0000</pubDate>
@@ -3885,7 +3885,7 @@
         length="77397650" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1T-RZ2hNrXKw4CVAtEp3-CKAQxNJrsdwyiz9rBKBri4s/edit">Notes - Ep. 348: “Clutch” Hypercalcemia</a>
+          <a href="https://docs.google.com/document/d/1T-RZ2hNrXKw4CVAtEp3-CKAQxNJrsdwyiz9rBKBri4s/edit">Notes - Ep. 348: &quot;Clutch&quot; Hypercalcemia</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:38 +0000</pubDate>
@@ -3898,7 +3898,7 @@
         length="99249680" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/17FifTvbRoMnek15iJNDJn_sH4ByFgNtu_jUO1KNIL5Q/edit">Notes - Ep. 349: “Clutch” Psych Pharm Review</a>
+          <a href="https://docs.google.com/document/d/17FifTvbRoMnek15iJNDJn_sH4ByFgNtu_jUO1KNIL5Q/edit">Notes - Ep. 349: &quot;Clutch&quot; Psych Pharm Review</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:39 +0000</pubDate>
@@ -3911,7 +3911,7 @@
         length="25680705" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1OcAEC0C3TyYhEU92nQ-2IVPGGbOj_cb9oAv43_RagAI/edit">Notes - Ep. 350: “Clutch” Teratogen</a>
+          <a href="https://docs.google.com/document/d/1OcAEC0C3TyYhEU92nQ-2IVPGGbOj_cb9oAv43_RagAI/edit">Notes - Ep. 350: &quot;Clutch&quot; Teratogen</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:40 +0000</pubDate>
@@ -3937,7 +3937,7 @@
         length="29642433" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1BoBBZP9QbSc3UoJzBprrsuQCyKrUHt9XczwE5nu49AQ/edit">Notes - Ep. 352: “Clutch” Fungi</a>
+          <a href="https://docs.google.com/document/d/1BoBBZP9QbSc3UoJzBprrsuQCyKrUHt9XczwE5nu49AQ/edit">Notes - Ep. 352: &quot;Clutch&quot; Fungi</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:42 +0000</pubDate>
@@ -3950,7 +3950,7 @@
         length="20869377" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1QYr8Px2VBxWXqiN0t81qR8Dd7UFQxfJrx2wYtebc40Q/edit">Notes - Ep. 353: “Clutch” Pulmonary HTN</a>
+          <a href="https://docs.google.com/document/d/1QYr8Px2VBxWXqiN0t81qR8Dd7UFQxfJrx2wYtebc40Q/edit">Notes - Ep. 353: &quot;Clutch&quot; Pulmonary HTN</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:43 +0000</pubDate>
@@ -3985,7 +3985,7 @@
         length="19369473" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1_XbIOoDDxPW2Of_syzGw39un_pEC4vEmGXhtOpaU1mQ/edit">Notes - Ep. 356: “Clutch” UTI Podcast</a>
+          <a href="https://docs.google.com/document/d/1_XbIOoDDxPW2Of_syzGw39un_pEC4vEmGXhtOpaU1mQ/edit">Notes - Ep. 356: &quot;Clutch&quot; UTI Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:46 +0000</pubDate>
@@ -3998,7 +3998,7 @@
         length="90884359" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1M_swZZq6gnEefUTvZAu1aL8LEm9frbflmNxjifJ52dA/edit">Notes - Ep. 357: “Clutch” Disorders of Sexual Differentiation</a>
+          <a href="https://docs.google.com/document/d/1M_swZZq6gnEefUTvZAu1aL8LEm9frbflmNxjifJ52dA/edit">Notes - Ep. 357: &quot;Clutch&quot; Disorders of Sexual Differentiation</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:47 +0000</pubDate>
@@ -4024,7 +4024,7 @@
         length="25879425" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1SwpVQMrTe7GsIU7_UGGuDTVj3ZdPtkhC3HB71YzOFO0/edit">Notes - Ep. 359: “Clutch” Hypersensitivity Reactions</a>
+          <a href="https://docs.google.com/document/d/1SwpVQMrTe7GsIU7_UGGuDTVj3ZdPtkhC3HB71YzOFO0/edit">Notes - Ep. 359: &quot;Clutch&quot; Hypersensitivity Reactions</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:49 +0000</pubDate>
@@ -4037,7 +4037,7 @@
         length="38834562" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/15vFLyRFNL_raN83B8gjNw-azc5pWR_DUL7BSAQXoN2E/edit">Notes - Ep. 360: “Clutch” Secondary Hypertension</a>
+          <a href="https://docs.google.com/document/d/15vFLyRFNL_raN83B8gjNw-azc5pWR_DUL7BSAQXoN2E/edit">Notes - Ep. 360: &quot;Clutch&quot; Secondary Hypertension</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:50 +0000</pubDate>
@@ -4124,7 +4124,7 @@
         length="17881089" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1s6YQifBFBDPA172tK_GCNGCiKHwEPlYsrg5693tq02Y/edit">Notes - Ep. 367: “Clutch” Amyloidosis</a>
+          <a href="https://docs.google.com/document/d/1s6YQifBFBDPA172tK_GCNGCiKHwEPlYsrg5693tq02Y/edit">Notes - Ep. 367: &quot;Clutch&quot; Amyloidosis</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:05:57 +0000</pubDate>
@@ -4185,7 +4185,7 @@
         length="20138433" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1i9ElznwXDV5Nh7aBGr3iqrSMr4YVRQqiNNtK5hN4Qvs/edit">Notes - Ep. 372: “Clutch” Headache</a>
+          <a href="https://docs.google.com/document/d/1i9ElznwXDV5Nh7aBGr3iqrSMr4YVRQqiNNtK5hN4Qvs/edit">Notes - Ep. 372: &quot;Clutch&quot; Headache</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:06:02 +0000</pubDate>
@@ -4237,7 +4237,7 @@
         length="20951490" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1obOqlx_NfAkVgTCsg2oRGUj3-t9NP34AztjEZ741IXM/edit">Notes - Ep. 376: “Clutch” Thyroid Cancer</a>
+          <a href="https://docs.google.com/document/d/1obOqlx_NfAkVgTCsg2oRGUj3-t9NP34AztjEZ741IXM/edit">Notes - Ep. 376: &quot;Clutch&quot; Thyroid Cancer</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:06:06 +0000</pubDate>
@@ -4250,7 +4250,7 @@
         length="16229697" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1FlOTd90yhWDS6Fh02dVpXpeE8tx3k9Pdk6rJQEVAXkQ/edit">Notes - Ep. 377: “Clutch” GI Bleed</a>
+          <a href="https://docs.google.com/document/d/1FlOTd90yhWDS6Fh02dVpXpeE8tx3k9Pdk6rJQEVAXkQ/edit">Notes - Ep. 377: &quot;Clutch&quot; GI Bleed</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:06:07 +0000</pubDate>
@@ -4265,14 +4265,14 @@
       <pubDate>Sun, 20 Aug 2023 00:06:08 +0000</pubDate>
     </item>
     <item>
-      <title>379 – A Series of HY “Elderly Vignettes” for Step 1-3</title>
+      <title>379 – A Series of HY &quot;Elderly Vignettes&quot; for Step 1-3</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1j1Qx1PkBnWa6-QI9unulIu8UeTUUVbFj</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1j1Qx1PkBnWa6-QI9unulIu8UeTUUVbFj"
         length="32696385" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1_huUEN7m2Zi5G6qqE6moO9kNQdmc6J3HHdzIPWOejBo/edit">Notes - Ep. 379: A Series of HY “Elderly Vignettes“</a>
+          <a href="https://docs.google.com/document/d/1_huUEN7m2Zi5G6qqE6moO9kNQdmc6J3HHdzIPWOejBo/edit">Notes - Ep. 379: A Series of HY &quot;Elderly Vignettes&quot;</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:06:09 +0000</pubDate>
@@ -4324,7 +4324,7 @@
         length="18968577" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1foAMyKqNujl_jKVPdpu6cFPdT9N84-6jMsfPxRxzTOE/edit">Notes - Ep. 383: “Clutch” Smoking</a>
+          <a href="https://docs.google.com/document/d/1foAMyKqNujl_jKVPdpu6cFPdT9N84-6jMsfPxRxzTOE/edit">Notes - Ep. 383: &quot;Clutch&quot; Smoking</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:06:13 +0000</pubDate>
@@ -4385,7 +4385,7 @@
         length="23731266" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1hrfyWi5tm1F0g0ALsYZ6uXNpDJQoJUwgT1EffUeTHGM/edit">Notes - Ep. 388: “Clutch” Hypocalcemia</a>
+          <a href="https://docs.google.com/document/d/1hrfyWi5tm1F0g0ALsYZ6uXNpDJQoJUwgT1EffUeTHGM/edit">Notes - Ep. 388: &quot;Clutch&quot; Hypocalcemia</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:06:18 +0000</pubDate>
@@ -4472,7 +4472,7 @@
         length="11318145" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1ZZtyOGxxz4VmJQTUhYToORii0HEpRzpY1bBxyGDHe_I/edit">Notes - Ep. 395: “Clutch” Diabetes Management</a>
+          <a href="https://docs.google.com/document/d/1ZZtyOGxxz4VmJQTUhYToORii0HEpRzpY1bBxyGDHe_I/edit">Notes - Ep. 395: &quot;Clutch&quot; Diabetes Management</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:06:25 +0000</pubDate>
@@ -4650,7 +4650,7 @@
         length="28575681" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1EPYW6KFLAlpGV2Ann1dhRvmnGPywcYW5pMMKj6ZrVnI/edit">Notes - Ep. 409: “Clutch” Hemoglobin Podcast</a>
+          <a href="https://docs.google.com/document/d/1EPYW6KFLAlpGV2Ann1dhRvmnGPywcYW5pMMKj6ZrVnI/edit">Notes - Ep. 409: &quot;Clutch&quot; Hemoglobin Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:06:39 +0000</pubDate>
@@ -4676,7 +4676,7 @@
         length="19082370" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1h2u9DnG-_uByzf1QyPwxr9poCY78Ka-MnpRziDTDQ9Y/edit">Notes - Ep. 411: “Clutch” Sarcoidosis Podcast</a>
+          <a href="https://docs.google.com/document/d/1h2u9DnG-_uByzf1QyPwxr9poCY78Ka-MnpRziDTDQ9Y/edit">Notes - Ep. 411: &quot;Clutch&quot; Sarcoidosis Podcast</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:06:41 +0000</pubDate>
@@ -4708,7 +4708,7 @@
       <pubDate>Sun, 20 Aug 2023 00:06:43 +0000</pubDate>
     </item>
     <item>
-      <title>414 – 18 Personal Statement Don’t's</title>
+      <title>414 – 18 Personal Statement Don&apos;t's</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1jJuL6uMsi7QsD21symtnEe8Lzx_K9Nrx</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1jJuL6uMsi7QsD21symtnEe8Lzx_K9Nrx"
@@ -4919,7 +4919,7 @@
         length="31652673" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1R26cU4onj236fh_3-cXPJXMreGWMuDSRP8chZsFS8r8/edit">Notes - Ep. 430: “Clutch” Renin Angiotensin Aldosterone System</a>
+          <a href="https://docs.google.com/document/d/1R26cU4onj236fh_3-cXPJXMreGWMuDSRP8chZsFS8r8/edit">Notes - Ep. 430: &quot;Clutch&quot; Renin Angiotensin Aldosterone System</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:07:00 +0000</pubDate>
@@ -5084,7 +5084,7 @@
         length="30926337" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1pAtEWaBDVfN32LXAesNDjCCa95rR39jhLhFsY61HBYU/edit">Notes - Ep. 443: “Clutch” Acetylcholinesterase Inhibitors</a>
+          <a href="https://docs.google.com/document/d/1pAtEWaBDVfN32LXAesNDjCCa95rR39jhLhFsY61HBYU/edit">Notes - Ep. 443: &quot;Clutch&quot; Acetylcholinesterase Inhibitors</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:07:13 +0000</pubDate>
@@ -5097,7 +5097,7 @@
         length="24220290" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1tlj5kqMmlizd9bHixuVirlilLZWppgdR7eknL2MkBdM/edit">Notes - Ep. 444: “Clutch” Thromboses</a>
+          <a href="https://docs.google.com/document/d/1tlj5kqMmlizd9bHixuVirlilLZWppgdR7eknL2MkBdM/edit">Notes - Ep. 444: &quot;Clutch&quot; Thromboses</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:07:14 +0000</pubDate>
@@ -5110,7 +5110,7 @@
         length="28549185" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1UQc8ne5qcNjOfGd2mtklCj9Sj-wJZpVCTzZNoE9lVzM/edit">Notes - Ep. 445: “Clutch” MI Complications</a>
+          <a href="https://docs.google.com/document/d/1UQc8ne5qcNjOfGd2mtklCj9Sj-wJZpVCTzZNoE9lVzM/edit">Notes - Ep. 445: &quot;Clutch&quot; MI Complications</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:07:15 +0000</pubDate>
@@ -5171,7 +5171,7 @@
         length="41546115" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1EnrYlqksjuI4neDyjfAZL7O7Fdi14HKTyW-X5sP4rE4/edit">Notes - Ep. 450: “Clutch” Hypernatremia</a>
+          <a href="https://docs.google.com/document/d/1EnrYlqksjuI4neDyjfAZL7O7Fdi14HKTyW-X5sP4rE4/edit">Notes - Ep. 450: &quot;Clutch&quot; Hypernatremia</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:07:20 +0000</pubDate>
@@ -5255,14 +5255,14 @@
       <pubDate>Sun, 20 Aug 2023 00:07:26 +0000</pubDate>
     </item>
     <item>
-      <title>457 – Horner’s Syndrome (a USMLE perspective)</title>
+      <title>457 – Horner&apos;s Syndrome (a USMLE perspective)</title>
       <guid>https://drive.google.com/uc?export=download&amp;id=1jf-FUxRmyY29eWj5fhliXJWcGBFkJrAx</guid>
       <enclosure
         url="https://drive.google.com/uc?export=download&amp;id=1jf-FUxRmyY29eWj5fhliXJWcGBFkJrAx"
         length="8479041" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/13NMzPIJ2Tekw-iQ9-R5b57LgY_eC-hlar6TyPZUWRBk/edit">Notes - Ep. 457: Horner’s Syndrome</a>
+          <a href="https://docs.google.com/document/d/13NMzPIJ2Tekw-iQ9-R5b57LgY_eC-hlar6TyPZUWRBk/edit">Notes - Ep. 457: Horner&apos;s Syndrome</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:07:27 +0000</pubDate>
@@ -5288,7 +5288,7 @@
         length="16442241" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1CvgQX6n8sYTRma_j66qL1QGPjg0ADn-oPXkhneDI6IE/edit">Notes - Ep. 459: “Clutch” STIs</a>
+          <a href="https://docs.google.com/document/d/1CvgQX6n8sYTRma_j66qL1QGPjg0ADn-oPXkhneDI6IE/edit">Notes - Ep. 459: &quot;Clutch&quot; STIs</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:07:29 +0000</pubDate>
@@ -5388,7 +5388,7 @@
         length="17291010" type="audio/mpeg" />
       <description>
         <![CDATA[
-          <a href="https://docs.google.com/document/d/1UvGN_GPrfoTLbn8-DwcjwPJJJrTN9ytZKgZB_XPxC7U/edit">Notes - Ep. 467: “Clutch” Cervical Cancer</a>
+          <a href="https://docs.google.com/document/d/1UvGN_GPrfoTLbn8-DwcjwPJJJrTN9ytZKgZB_XPxC7U/edit">Notes - Ep. 467: &quot;Clutch&quot; Cervical Cancer</a>
         ]]>
       </description>
       <pubDate>Sun, 20 Aug 2023 00:07:37 +0000</pubDate>
